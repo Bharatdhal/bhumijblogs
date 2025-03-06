@@ -2,7 +2,7 @@
 A blog site for blog posting.
 
 # Astro Starter Kit: Blog
-
+To create a blog site using astro framework.
 ```sh
 npm create astro@latest -- --template blog
 ```
